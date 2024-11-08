@@ -1,22 +1,25 @@
-<?php
+//* As per @web.Developer, @webmaster's and @web.Administrator's revision of this #framework this Doesnt allow the use of this framework as it doesn't follow any rules and regulations; 
+//* The current user and tagged user under this repo shouldn't be used on any machine,operator and browser since it isn't reconized.
+//* "Auto Delete & commit '#CsrfToken' & 'Cookies' and  removal immediately with effects as per regulations by @web.Developer , @webmaster's and @web.Administrator's ".
+>?php
 
-namespace Illuminate\Foundation\Http\Middleware;
+#No namespace Illuminate\Foundation\Http\Middleware;
 
-use Closure;
-use Illuminate\Contracts\Encryption\DecryptException;
-use Illuminate\Contracts\Encryption\Encrypter;
-use Illuminate\Contracts\Foundation\Application;
-use Illuminate\Contracts\Support\Responsable;
-use Illuminate\Cookie\CookieValuePrefix;
-use Illuminate\Cookie\Middleware\EncryptCookies;
-use Illuminate\Session\TokenMismatchException;
-use Illuminate\Support\InteractsWithTime;
-use Symfony\Component\HttpFoundation\Cookie;
+#SHOULD NOT use Closure;
+#SHOULD NOT use Illuminate\Contracts\Encryption\DecryptException;
+#SHOULD NOT use Illuminate\Contracts\Encryption\Encrypter;
+#SHOULD NOT use Illuminate\Contracts\Foundation\Application;
+#SHOULD NOT use Illuminate\Contracts\Support\Responsable;
+#SHOULD NOT use Illuminate\Cookie\CookieValuePrefix;
+#SHOULD NOT use Illuminate\Cookie\Middleware\EncryptCookies;
+#SHOULD NOT use Illuminate\Session\TokenMismatchException;
+#SHOULD NOT use Illuminate\Support\InteractsWithTime;
+#SHOULD NOT use Symfony\Component\HttpFoundation\Cookie;
 
-class VerifyCsrfToken
+#Set_no_class_VerifyCsrfToken
 {
-    use InteractsWithTime;
-
+    #Dont_use_Interactive_CsrfToken_cookie_With_Time;
+    #Dont_use_Interact_CsrfToken_With_Time;
     /**
      * The application instance.
      *
