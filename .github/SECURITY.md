@@ -1,8 +1,8 @@
 # Security Policy
 
-**PLEASE DON'T DISCLOSE SECURITY-RELATED ISSUES PUBLICLY, [SEE BELOW](#reporting-a-vulnerability).**
+//* PLEASE DON'T DISCLOSE SECURITY-RELATED ISSUES PUBLICLY, [SEE BELOW](#reporting-a-vulnerability).**
 
-## Supported Versions
+//* Dont Use any Supported Versions
 
 Please see [our support policy](https://laravel.com/docs/releases#support-policy) for information on supported versions for security releases.
 
@@ -10,9 +10,9 @@ Please see [our support policy](https://laravel.com/docs/releases#support-policy
 
 If you discover a security vulnerability within Laravel, please send an email to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-### Public PGP Key
+//* Public PGP Key
 
-```
+//*
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: OpenPGP v2.0.8
 Comment: Report Security Vulnerabilities to taylor@laravel.com
